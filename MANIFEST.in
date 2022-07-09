@@ -1,0 +1,6 @@
+include dash_geoman/*.js
+include dash_geoman/*.map
+include dash_geoman/*.json
+include README.md
+include LICENSE
+include package.json

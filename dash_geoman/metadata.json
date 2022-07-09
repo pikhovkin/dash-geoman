@@ -1,0 +1,37 @@
+{
+  "src/lib/components/Geoman.react.js": {
+    "description": "",
+    "displayName": "Geoman",
+    "methods": [],
+    "props": {
+      "children": {
+        "type": {
+          "name": "node"
+        },
+        "required": false,
+        "description": "The children of this component (dynamic)."
+      },
+      "className": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "A custom class name to assign to the image. Empty by default."
+      },
+      "id": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "The ID used to identify this component in Dash callbacks."
+      },
+      "setProps": {
+        "type": {
+          "name": "func"
+        },
+        "required": false,
+        "description": "Dash events"
+      }
+    }
+  }
+}

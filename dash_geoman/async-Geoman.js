@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdash_geoman=self.webpackChunkdash_geoman||[]).push([[179],{2395:function(e,n,t){t.r(n);var a=t(618),r=(t(4607),t(7801),t(9196)),o=t(6913);function s(e){var n=(0,a.useLeaflet)();return(0,r.useEffect)((function(){var e=n.layerContainer||n.map;return e.pm.addControls(),function(){e.pm.removeControls(),e.pm.setGlobalOptions({pmIgnore:!0})}}),[n]),React.createElement(React.Fragment,null)}n.default=s,s.defaultProps=o.lG,s.propTypes=o.iG}}]);
+//# sourceMappingURL=async-Geoman.js.map
