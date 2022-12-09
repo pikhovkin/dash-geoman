@@ -24,7 +24,7 @@ import dash_leaflet as dl
 import dash_geoman as dgm
 
 app = dash.Dash()
-app.layout = dl.Map(childrenn=[
+app.layout = dl.Map(children=[
     dl.TileLayer(),
     dgm.Geoman(),
 ], style={'width': '1000px', 'height': '500px'})
